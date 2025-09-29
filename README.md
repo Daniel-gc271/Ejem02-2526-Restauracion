@@ -69,6 +69,9 @@ Lista de tareas
 - [ ] Crear el proyecto y sincronizarlo con gitkraken
 - [ ] Programar
 
+Resaltar palabra
+==Palabras importantes que resaltar==
+
 
 
 
