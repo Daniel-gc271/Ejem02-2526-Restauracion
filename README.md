@@ -65,7 +65,7 @@ Ide
 : eclipse para desarrollar proyectos
 
 Lista de tareas
-- [x] Iniciar u repositorio en github
+- [x] Iniciar un repositorio en github
 - [ ] Crear el proyecto y sincronizarlo con gitkraken
 - [ ] Programar
 
