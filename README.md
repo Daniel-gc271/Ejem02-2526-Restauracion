@@ -30,5 +30,8 @@ Horizontal Rule
 
 enlace
 [web del centro docente](https://gregoriofer.com/)
+
+
+
 imagen
 ![Texto alternativo](https://gregoriofer.com/logo.jpg)
