@@ -57,6 +57,13 @@ conjunto de datos
 Pie de pagina
 
 
+definicion de terminos
+Git
+: Control de versiones utilizado
+
+Ide
+: eclipse para desarrollar proyectos
+
 
 
 
