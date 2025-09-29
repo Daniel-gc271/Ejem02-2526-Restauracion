@@ -50,3 +50,19 @@ conjunto de datos
 }
 ```
 
+
+Pie de pagina
+
+ir al pie de pagina. [^1]
+
+
+
+
+
+
+
+
+
+
+
+[^1]: Pie de pagina.
