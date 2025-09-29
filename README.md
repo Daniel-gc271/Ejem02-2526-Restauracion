@@ -21,10 +21,7 @@ Unordered List
 >lo interesante es lo poco que hay que memorizar
 
   
-Code	`public static void main(String[] args){
-System.out.print("Hola")
-
-}`
+Code	`public static void main(String[] args){System.out.print("Hola")}`
 
 
 Horizontal Rule	---
