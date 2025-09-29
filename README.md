@@ -24,7 +24,10 @@ Unordered List
 Code	`public static void main(String[] args){System.out.print("Hola")}`
 
 
-Horizontal Rule	---
+Horizontal Rule	
+
+---
+
 enlace
 [web del centro docente](https://gregoriofer.com/)
 imagen
