@@ -5,6 +5,9 @@
 -0.0.0 Creado el proyecto y agregada la version
 -0.0.1 Añadido un segundo header
 --------------------------------------
+
+ir al pie de pagina. [^1]
+
 *italicized text*
 Blockquote	> blockquote
 
@@ -53,7 +56,7 @@ conjunto de datos
 
 Pie de pagina
 
-ir al pie de pagina. [^1]
+
 
 
 
