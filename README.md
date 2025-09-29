@@ -7,15 +7,28 @@
 --------------------------------------
 *italicized text*
 Blockquote	> blockquote
-Ordered List	1. First item
+
+
+Ordered List
+1. First item
 2. Second item
 3. Third item
 Unordered List	
 - First item
 - Second item
 - Third item
+
 >lo interesante es lo poco que hay que memorizar
 
   
-Code	`code`
+Code	`public static void main(String[] args){
+System.out.print("Hola")
+
+}`
+
+
 Horizontal Rule	---
+enlace
+[web del centro docente](https://gregoriofer.com/)
+imagen
+![Texto alternativo](https://gregoriofer.com/logo.jpg)
