@@ -40,4 +40,13 @@ imagen
 | ----------- | ----------- |
 | 1 | Juan |
 | 2 | Pedro |
+conjunto de datos
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
