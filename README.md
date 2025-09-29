@@ -35,3 +35,9 @@ enlace
 
 imagen
 ![Texto alternativo](https://gregoriofer.com/logo.jpg)
+
+| Identificador | Miembros |
+| ----------- | ----------- |
+| 1 | Juan |
+| 2 | Pedro |
+
